@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         BtnPerzonalizar = findViewById(R.id.lyPerzonalizar);
 
 
-        nombreDeColores = new ArrayList<String>();
+        nombreDeColores = new ArrayList<>();
         ///Rojo
         nombreDeColores.add("ff0800");
         nombreDeColores.add("f80800");
