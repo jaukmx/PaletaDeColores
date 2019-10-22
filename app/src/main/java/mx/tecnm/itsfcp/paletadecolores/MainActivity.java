@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
                 public void onCancel(AmbilWarnaDialog dialog) {
 
                 }
-
+//S
                 @Override
                 public void onOk(AmbilWarnaDialog dialog, int color) {
                     mDefaultColor=color;
